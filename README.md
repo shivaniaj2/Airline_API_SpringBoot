@@ -97,26 +97,6 @@ SpringBoot_AirlineAPI/
 
 ```
 
-## 🚀 Running the API
-
-### 1️⃣ Clone the Repository
-
-```sh
-git clone https://github.com/shivaniaj22/SpringBoot_AirlineAPI.git
-```
-
-### 2️⃣ Navigate to the Project Directory
-
-```sh
-cd SpringBoot_AirlineAPI
-```
-
-### 3️⃣ Run the Application
-
-```sh
-mvn spring-boot:run
-```
-
 ## 📌 API Endpoints
 
 | HTTP Method 
@@ -129,7 +109,7 @@ mvn spring-boot:run
 ## 📌 Testing with Postman
 
 1️⃣ Open **Postman**.
-2️⃣ Use the API endpoints listed above.
+2️⃣ Use the API .
 3️⃣ Send requests and check responses.
 
 
