@@ -119,12 +119,12 @@ mvn spring-boot:run
 
 ## 📌 API Endpoints
 
-| HTTP Method | Endpoint | Description |
-|------------|----------------|----------------|
-| **GET** | `/airindia/flights` | Get all flights |
-| **POST** | `/airindia/add?flight=AI202` | Add a new flight |
-| **PUT** | `/airindia/update/{index}?flight=AI203` | Update a flight at given index |
-| **DELETE** | `/airindia/delete/{index}` | Delete a flight at given index |
+| HTTP Method 
+|-----------
+| **GET** 
+| **POST** 
+| **PUT**
+| **DELETE** 
 
 ## 📌 Testing with Postman
 
